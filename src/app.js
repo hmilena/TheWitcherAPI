@@ -5,6 +5,7 @@ const port = 3001;
 const characters = [
 	{
 		"name": 'Geralt de Rívia',
+		"description" : "",
 		"alias": [
 			"White Wolf",
 			"Gwynbleidd",
@@ -24,7 +25,6 @@ const characters = [
 		],
 		"nationality": "Kaedweni / Unknown",
 		"titles": [
-
 		],
 		"habilities": [
 			"Superhuman abilities",
@@ -55,6 +55,7 @@ const characters = [
 	},
 	{
 		"name": 'Yennefer de Vengenberg',
+		"description" : "",
 		"alias": [
 			"Janka",
 			"Jenny",
@@ -104,6 +105,7 @@ const characters = [
 	},
 	{
 		"name": 'Jaskier',
+		"description" : "",
 		"alias": [
 			"Julian Alfred Pankratz",
 			"Dandelion",
@@ -152,6 +154,7 @@ const characters = [
 	},
 	{
 		"name": 'Triss Merigold',
+		"description" : "",
 		"alias": [
 			"Fourteenth of the Hill",
 			"Merigold the Fearless"
