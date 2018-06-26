@@ -51,7 +51,7 @@ const characters = [
 				]
 			}
 		],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/geralt.png?raw=true"
+		"picture": "./assets/chars/geralt.gif"
 	},
 	{
 		"name": 'Yennefer de Vengenberg',
@@ -194,6 +194,7 @@ const characters = [
 		],
 		"picture": './assets/chars/triss.gif'
 	}
+	
 	// {
 	// 	"name": 'Cirilla Fiona Elen Riannon',
 	// 	"alias": [
@@ -255,7 +256,6 @@ const characters = [
 	// }
 	
 ]
-
 
 app.use(function(req, res, next) {
 	res.header("Access-Control-Allow-Origin", "http://localhost:4200");
