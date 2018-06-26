@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3001;
+
 const characters = [
 	{
 		name: 'Geralt de Rívia',
@@ -150,66 +151,117 @@ const characters = [
 		picture: './assets/chars/jaskier.gif'
 	},
 	{
-		name: 'Cirilla Fiona Elen Riannon',
+		name: 'Triss Merigold',
 		alias: [
-			"Ciri",
-			"Lion Cub of Cintra",
-			"Falka",
-			"Zireael",
-			"Swallow",
-			"Ashen one",
-			"Lady of Space and Time"
+			"Fourteenth of the Hill",
+			"Merigold the Fearless"
 		],
 		race: "Human",
 		sex: "Female",
-		"Eye color": "Emerald-green",
-		"Hair Color": "Ashen-gray",
+		"Eye color": "Cornflower blue",
+		"Hair Color": "Chestnut ",
 		"Skin Color": "White",
 		profession: [
-			"Witcher",
-			"Empress of Nilfgaard"
+			"Advisor",
+			"Mage"
 		],
 		affiliations: [
-			"Geralt's company",
-			"Redanian Secret Service",
-			"University of Oxenfurt"
+			"King Foltest of Temeria",
+			"Lodge of Sorceresses",
+			"Temerian Royal Council"
 		],
-		nationality: "Cintra",
+		nationality: "Temeria",
 		titles: [
-			"Heiress to the throne of Cintra",
-			"Heiress to Inis Ard Skellig and Inis An Skellig",
-			"Princess of Brugge",
-			"Duchess of Sodden",
-			"Suzerain of Attre and Abb Yarra"
 		],
 		habilities: [
-			"Elder blood gene",
-			"Swordsmanship"
+			"Magic",
+			"Alchemy"
 		],
 		weapons: [
 		],
 		family: [
 			{
-				mother: [
-					"Pavetta",
-					"Yennefer of Vengenberg"
-				],
-				father: [
-					"Dunny",
-					"Geralt of Rivia"
-				],
+				mother: "",
+				father: "",
 				sibilings: [],
 				partners: [
-					"Mistle"
+					"Geralt of Rivia"
 				],
 				children: [
+					
 				]
 			}
 		],
-		picture: './assets/chars/ciri.gif'
+		picture: './assets/chars/triss.gif'
 	}
+	// {
+	// 	name: 'Cirilla Fiona Elen Riannon',
+	// 	alias: [
+	// 		"Ciri",
+	// 		"Lion Cub of Cintra",
+	// 		"Falka",
+	// 		"Zireael",
+	// 		"Swallow",
+	// 		"Ashen one",
+	// 		"Lady of Space and Time"
+	// 	],
+	// 	race: "Human",
+	// 	sex: "Female",
+	// 	"Eye color": "Emerald-green",
+	// 	"Hair Color": "Ashen-gray",
+	// 	"Skin Color": "White",
+	// 	profession: [
+	// 		"Witcher",
+	// 		"Empress of Nilfgaard"
+	// 	],
+	// 	affiliations: [
+	// 		"Geralt's company",
+	// 		"Redanian Secret Service",
+	// 		"University of Oxenfurt"
+	// 	],
+	// 	nationality: "Cintra",
+	// 	titles: [
+	// 		"Heiress to the throne of Cintra",
+	// 		"Heiress to Inis Ard Skellig and Inis An Skellig",
+	// 		"Princess of Brugge",
+	// 		"Duchess of Sodden",
+	// 		"Suzerain of Attre and Abb Yarra"
+	// 	],
+	// 	habilities: [
+	// 		"Elder blood gene",
+	// 		"Swordsmanship"
+	// 	],
+	// 	weapons: [
+	// 	],
+	// 	family: [
+	// 		{
+	// 			mother: [
+	// 				"Pavetta",
+	// 				"Yennefer of Vengenberg"
+	// 			],
+	// 			father: [
+	// 				"Dunny",
+	// 				"Geralt of Rivia"
+	// 			],
+	// 			sibilings: [],
+	// 			partners: [
+	// 				"Mistle"
+	// 			],
+	// 			children: [
+	// 			]
+	// 		}
+	// 	],
+	// 	picture: './assets/chars/ciri.gif'
+	// }
 	
 ]
+
+
+app.use(function(req, res, next) {
+	res.header("Access-Control-Allow-Origin", "http://localhost:4200");
+	res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+	next();
+});
 
 app.get('/characters', (req, res) => res.json(characters));
 
