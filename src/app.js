@@ -4,199 +4,201 @@ const port = 3001;
 
 const characters = [
 	{
-		name: 'Geralt de Rívia',
-		alias: [
+		"name": 'Geralt de Rívia',
+		"alias": [
 			"White Wolf",
 			"Gwynbleidd",
 			"White One",
 			"Butcher of Blaviken",
 			"Ravix of Fourhorn",
 		],
-		race: "Human",
-		sex: "Male",
-		"Eye color": "Dark",
-		"Hair Color": "White",
-		"Skin Color": "Milk White",
-		profession: [
+		"race": "Human",
+		"sex": "Male",
+		"eye_color": "Dark",
+		"hair_color": "White",
+		"skin_color": "Milk White",
+		"profession": [
 			"Witcher"
 		],
-		affiliations: [
+		"affiliations": [
 		],
-		nationality: "Kaedweni / Unknown",
-		titles: [
+		"nationality": "Kaedweni / Unknown",
+		"titles": [
 
 		],
-		habilities: [
+		"habilities": [
 			"Superhuman abilities",
 			"Swordsmanship",
 			"Alchemy",
 			"Signs"
 		],
-		weapons: [
+		"weapons": [
 			"Silver Sword",
 			"Steel Sword",
 			"Crossbowl"
 		],
-		family: [
+		"family": [
 			{
-				mother: "Visenna",
-				father: "Korin",
-				sibilings: [],
-				partners: [
+				"mother": "Visenna",
+				"father": "Korin",
+				"sibilings": [],
+				"partners": [
 					"Yennefer of Vengenberg",
 					"Triss Merigold"
 				],
-				children: [
+				"children": [
 					"Cirilla"
 				]
 			}
 		],
-		picture: "./assets/chars/geralt.gif"
+		"picture": "./assets/chars/geralt.gif"
 	},
 	{
-		name: 'Yennefer de Vengenberg',
-		alias: [
+		"name": 'Yennefer de Vengenberg',
+		"alias": [
 			"Janka",
 			"Jenny",
 			"Yen",
 			"Yenna",
 			"Horsewoman of War",
 		],
-		race: "Quadroon",
-		sex: "Female",
-		"Eye color": "Violet",
-		"Hair Color": "Black",
-		"Skin Color": "Pale",
-		profession: [
+		"race": "Quadroon",
+		"sex": "Female",
+		"eye_color": "Violet",
+		"hair_color": "Black",
+		"skin_color": "Pale",
+		"profession": [
 			"Advisor",
 			"Mage"
 		],
-		affiliations: [
+		"affiliations": [
 			"Brotherhood of Sorcerers",
 			"King Demavend III of Aedirn",
 			"Lodge of Sorceresses"
 		],
-		nationality: "Aedirn",
-		titles: [
+		"nationality": "Aedirn",
+		"titles": [
 
 		],
-		habilities: [
+		"habilities": [
 			"Magic"
 		],
-		weapons: [
+		"weapons": [
 		],
-		family: [
+		"family": [
 			{
-				mother: "",
-				father: "",
-				sibilings: [],
-				partners: [
+				"mother": "",
+				"father": "",
+				"sibilings": [],
+				"partners": [
 					"Geralt of Rivia",
 					"Istredd",
 					"Crach an Craite"
 				],
-				children: [
+				"children": [
 					"Cirilla"
 				]
 			}
 		],
-		picture: './assets/chars/yennefer.gif'
+		"picture": './assets/chars/yennefer.gif'
 	},
 	{
-		name: 'Jaskier',
-		alias: [
+		"name": 'Jaskier',
+		"alias": [
 			"Julian Alfred Pankratz",
 			"Dandelion",
-			"The Crimson Avenger",
-			"Viscount de Lettenhove"
+			"The Crimson Avenger"
 		],
-		race: "Human",
-		sex: "Male",
-		"Eye color": "Cornflower blue",
-		"Hair Color": "Blond",
-		"Skin Color": "White",
-		profession: [
+		"race": "Human",
+		"sex": "Male",
+		"eye_color": "Cornflower blue",
+		"hair_color": "Blond",
+		"skin_color": "White",
+		"profession": [
 			"Bard",
 			"Poet"
 		],
-		affiliations: [
+		"affiliations": [
 			"Geralt's company",
 			"Redanian Secret Service",
 			"University of Oxenfurt"
 		],
-		nationality: "Redania",
-		titles: [
+		"nationality": "Redania",
+		"titles": [
 		],
-		habilities: [
+		"titles": [
+			"Viscount de Lettenhove"
+		],
+		"habilities": [
 			"Lute playing",
 			"Singing",
 			"Writing poetry and prose"
 		],
-		weapons: [
+		"weapons": [
 		],
-		family: [
+		"family": [
 			{
-				mother: "",
-				father: "",
-				sibilings: [],
-				partners: [
+				"mother": "",
+				"father": "",
+				"sibilings": [],
+				"partners": [
 					"Anna Henrietta",
 					"Vespula"
 				],
-				children: [
+				"children": [
 					
 				]
 			}
 		],
-		picture: './assets/chars/jaskier.gif'
+		"picture": './assets/chars/jaskier.gif'
 	},
 	{
-		name: 'Triss Merigold',
-		alias: [
+		"name": 'Triss Merigold',
+		"alias": [
 			"Fourteenth of the Hill",
 			"Merigold the Fearless"
 		],
-		race: "Human",
-		sex: "Female",
-		"Eye color": "Cornflower blue",
-		"Hair Color": "Chestnut ",
-		"Skin Color": "White",
-		profession: [
+		"race": "Human",
+		"sex": "Female",
+		"eye_color": "Cornflower blue",
+		"hair_color": "Chestnut ",
+		"skin_color": "White",
+		"profession": [
 			"Advisor",
 			"Mage"
 		],
-		affiliations: [
+		"affiliations": [
 			"King Foltest of Temeria",
 			"Lodge of Sorceresses",
 			"Temerian Royal Council"
 		],
-		nationality: "Temeria",
-		titles: [
+		"nationality": "Temeria",
+		"titles": [
 		],
-		habilities: [
+		"habilities": [
 			"Magic",
 			"Alchemy"
 		],
-		weapons: [
+		"weapons": [
 		],
-		family: [
+		"family": [
 			{
-				mother: "",
-				father: "",
-				sibilings: [],
-				partners: [
+				"mother": "",
+				"father": "",
+				"sibilings": [],
+				"partners": [
 					"Geralt of Rivia"
 				],
-				children: [
+				"children": [
 					
 				]
 			}
 		],
-		picture: './assets/chars/triss.gif'
+		"picture": './assets/chars/triss.gif'
 	}
 	// {
-	// 	name: 'Cirilla Fiona Elen Riannon',
-	// 	alias: [
+	// 	"name": 'Cirilla Fiona Elen Riannon',
+	// 	"alias": [
 	// 		"Ciri",
 	// 		"Lion Cub of Cintra",
 	// 		"Falka",
@@ -205,53 +207,53 @@ const characters = [
 	// 		"Ashen one",
 	// 		"Lady of Space and Time"
 	// 	],
-	// 	race: "Human",
-	// 	sex: "Female",
-	// 	"Eye color": "Emerald-green",
-	// 	"Hair Color": "Ashen-gray",
-	// 	"Skin Color": "White",
-	// 	profession: [
+	// 	"race": "Human",
+	// 	"sex": "Female",
+	// 	"eye_color": "Emerald-green",
+	// 	"hair_color": "Ashen-gray",
+	// 	"skin_color": "White",
+	// 	"profession": [
 	// 		"Witcher",
 	// 		"Empress of Nilfgaard"
 	// 	],
-	// 	affiliations: [
+	// 	"affiliations": [
 	// 		"Geralt's company",
 	// 		"Redanian Secret Service",
 	// 		"University of Oxenfurt"
 	// 	],
-	// 	nationality: "Cintra",
-	// 	titles: [
+	// 	"nationality": "Cintra",
+	// 	"titles": [
 	// 		"Heiress to the throne of Cintra",
 	// 		"Heiress to Inis Ard Skellig and Inis An Skellig",
 	// 		"Princess of Brugge",
 	// 		"Duchess of Sodden",
 	// 		"Suzerain of Attre and Abb Yarra"
 	// 	],
-	// 	habilities: [
+	// 	"habilities": [
 	// 		"Elder blood gene",
 	// 		"Swordsmanship"
 	// 	],
-	// 	weapons: [
+	// 	"weapons": [
 	// 	],
-	// 	family: [
+	// 	"family": [
 	// 		{
-	// 			mother: [
+	// 			"mother": [
 	// 				"Pavetta",
 	// 				"Yennefer of Vengenberg"
 	// 			],
-	// 			father: [
+	// 			"father": [
 	// 				"Dunny",
 	// 				"Geralt of Rivia"
 	// 			],
-	// 			sibilings: [],
-	// 			partners: [
+	// 			"sibilings": [],
+	// 			"partners": [
 	// 				"Mistle"
 	// 			],
-	// 			children: [
+	// 			"children": [
 	// 			]
 	// 		}
 	// 	],
-	// 	picture: './assets/chars/ciri.gif'
+	// 	"picture": './assets/chars/ciri.gif'
 	// }
 	
 ]
