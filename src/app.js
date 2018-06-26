@@ -51,7 +51,7 @@ const characters = [
 				]
 			}
 		],
-		"picture": "./assets/chars/geralt.gif"
+		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/geralt.png?raw=true"
 	},
 	{
 		"name": 'Yennefer de Vengenberg',
@@ -124,8 +124,6 @@ const characters = [
 			"University of Oxenfurt"
 		],
 		"nationality": "Redania",
-		"titles": [
-		],
 		"titles": [
 			"Viscount de Lettenhove"
 		],
