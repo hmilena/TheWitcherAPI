@@ -44,7 +44,7 @@
   "partners": ["Geralt of Rivia", "Istredd", "Crach an Craite"],
   "children": ["Cirilla"],
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/yennefer.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Jaskier",
@@ -92,7 +92,7 @@
   "partners": ["Geralt of Rivia"],
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/triss-merigold.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Cirilla Fiona Elen Riannon",
@@ -116,7 +116,7 @@
   "partners": ["Mistle"],
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/ciri.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://marioteodosioart.com/post/150372928508/my-ciri-fanart"
 },
 {
   "name": "Vilgefortz of Roggeveen",
@@ -164,7 +164,7 @@
   "partners": "",
   "children": ["Caranthir Ar-Feiniel"],
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/avallach.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://marioteodosioart.com/post/150372928508/my-ciri-fanart"
 },
 {
   "name": "Borch Three Jackdows",
@@ -188,7 +188,7 @@
   "partners": ["Myrgtabrakke", "Téa", "Véa"],
   "children": ["Saesenthessis"],
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/borch-three-jackdows.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Eskel",
@@ -212,7 +212,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/eskel.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com"
 },
 {
   "name": "Cahir Mawr Dyffryn aep Ceallach",
@@ -259,7 +259,7 @@
   "partners": ["Roegner of Ebbing", "Eist Tuirseach"],
   "children": ["Pavetta"],
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/calanthe.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Crach an Craite",
@@ -283,7 +283,7 @@
   "partners": ["Yennefer of Vengenberg"],
   "children": ["Hjalmar", "Cerys", "Ragnar", "Loki"],
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/crach-an-craite.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Tellico Lunngrevink Letorte",
@@ -307,7 +307,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/dudu.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Dunny",
@@ -379,7 +379,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/emhyr.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Foltest",
@@ -403,7 +403,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/foltest.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Fringilla Vigo",
@@ -427,7 +427,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/fringilla-vigo.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Francesca Findabair",
@@ -451,7 +451,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/francesca-findabair.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Istredd",
@@ -475,7 +475,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/istredd.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Jarre",
@@ -499,7 +499,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/jarre.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/cloudsdevourer/gallery/all"
 },
 {
   "name": "Keira Metz",
@@ -523,7 +523,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/keira-metz.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Lambert",
@@ -666,7 +666,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/renfri.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Vesemir",
@@ -690,7 +690,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/vesemir.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://en.cdprojektred.com/"
 },
 {
   "name": "Asse",
