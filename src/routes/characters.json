@@ -140,7 +140,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/vilgefortz.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/justanor"
 },
 {
   "name": "Avallac'h",
@@ -236,13 +236,12 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/cahir.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/justanor"
 },
 {
   "name": "Calanthe",
   "slug": "calanthe",
   "description": "",
-  "alias": ["Ard Rhena", "Lioness of Cintra", "Modron"],
   "race": "Human",
   "sex": "Female",
   "eye_color": "",
@@ -356,7 +355,7 @@
   "partners": ["Geralt of Rivia"],
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/essi-daven.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/justanor"
 },
 {
   "name": "Emhyr Var Emreis",
@@ -715,7 +714,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/asse.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/justanor"
 },
 {
   "name": "Assire Var Anahid",
@@ -811,7 +810,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/giselher.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/justanor"
 },
 {
   "name": "Ida Emean Aep Sivney",
@@ -835,7 +834,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/ida-emean-aep-sivney.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Iorweth",
@@ -907,7 +906,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/kayleigh.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/justanor"
 },
 {
   "name": "Margarita Laux Antille",
@@ -931,7 +930,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/margarita-laux-antille.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Meve",
@@ -955,7 +954,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/meve.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Mousesack",
@@ -1219,7 +1218,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/sabrina-glevissig.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Shani",
@@ -1291,7 +1290,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/sheenaz.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Sigismund Dijkstra",
@@ -1339,7 +1338,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/spark.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Stefan Skellen",
@@ -1411,7 +1410,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/tea-vea.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Tissaia de Vries",
@@ -1435,7 +1434,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/tissaia-de-vries.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Toruviel",
@@ -1483,7 +1482,7 @@
   "partners": "",
   "children": "",
   "picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/visenna.jpg?raw=true",
-  "picAuthor": ""
+  "picAuthor": "https://www.deviantart.com/nastyaskaya"
 },
 {
   "name": "Vysogota of Corvo",
