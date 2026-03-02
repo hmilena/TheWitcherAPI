@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Silver Sword",
+    "type": "Sword",
+    "target": "Monsters"
+  },
+  {
+    "id": 2,
+    "name": "Steel Sword",
+    "type": "Sword",
+    "target": "Humans and Non-humans"
+  },
+  {
+    "id": 3,
+    "name": "Aerondight",
+    "type": "Relic Silver Sword",
+    "target": "Monsters"
+  }
+]

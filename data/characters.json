@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Geralt of Rivia",
+    "profession": "Witcher"
+  },
+  {
+    "id": 2,
+    "name": "Yennefer of Vengerberg",
+    "profession": "Sorceress"
+  },
+  {
+    "id": 3,
+    "name": "Cirilla Fiona Elen Riannon",
+    "profession": "Princess / Witcher"
+  },
+  {
+    "id": 4,
+    "name": "Jaskier (Dandelion)",
+    "profession": "Bard"
+  }
+]

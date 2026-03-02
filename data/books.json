@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "The Last Wish",
+    "year": 1993,
+    "type": "Short Story Collection"
+  },
+  {
+    "id": 2,
+    "name": "Sword of Destiny",
+    "year": 1992,
+    "type": "Short Story Collection"
+  },
+  {
+    "id": 3,
+    "name": "Blood of Elves",
+    "year": 1994,
+    "type": "Novel"
+  }
+]

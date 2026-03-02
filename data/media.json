@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher 3: Wild Hunt",
+    "type": "Video Game",
+    "release_year": 2015
+  },
+  {
+    "id": 2,
+    "name": "The Witcher (Netflix)",
+    "type": "TV Series",
+    "release_year": 2019
+  },
+  {
+    "id": 3,
+    "name": "The Witcher: Nightmare of the Wolf",
+    "type": "Animated Film",
+    "release_year": 2021
+  }
+]
