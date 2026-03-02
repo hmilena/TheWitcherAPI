@@ -1,20 +1,62 @@
 [
-  {
-    "id": 1,
-    "name": "The Last Wish",
-    "year": 1993,
-    "type": "Short Story Collection"
-  },
-  {
-    "id": 2,
-    "name": "Sword of Destiny",
-    "year": 1992,
-    "type": "Short Story Collection"
-  },
-  {
-    "id": 3,
-    "name": "Blood of Elves",
-    "year": 1994,
-    "type": "Novel"
-  }
+	{
+		"id": 1,
+		"name": "The Witcher",
+		"year": 1990,
+		"type": "Short Story Collection"
+	},
+	{
+		"id": 2,
+		"name": "The Last Wish",
+		"year": 1993,
+		"type": "Short Story Collection"
+	},
+	{
+		"id": 3,
+		"name": "Sword of Destiny",
+		"year": 1992,
+		"type": "Short Story Collection"
+	},
+	{
+		"id": 4,
+		"name": "Blood of Elves",
+		"year": 1994,
+		"type": "The Witcher Saga"
+	},
+	{
+		"id": 5,
+		"name": "Time of Contempt",
+		"year": 1995,
+		"type": "The Witcher Saga"
+	},
+	{
+		"id": 6,
+		"name": "Baptism of Fire",
+		"year": 1996,
+		"type": "The Witcher Saga"
+	},
+	{
+		"id": 7,
+		"name": "The Tower of the Swallow",
+		"year": 1997,
+		"type": "The Witcher Saga"
+	},
+	{
+		"id": 8,
+		"name": "The Lady of the Lake",
+		"year": 1999,
+		"type": "The Witcher Saga"
+	},
+	{
+		"id": 9,
+		"name": "Season of Storms",
+		"year": 2013,
+		"type": "Prequel novels"
+	},
+	{
+		"id": 10,
+		"name": "Crossroads of Ravens",
+		"year": 2024,
+		"type": "Prequel novels"
+	}
 ]
