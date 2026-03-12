@@ -32,7 +32,7 @@
 		"sibilings": "",
 		"partners": ["Yennefer of Vengenberg", "Triss Merigold"],
 		"children": ["Cirilla"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/geralt-of-rivia.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/geralt-of-rivia.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nikivaszi"
 	},
 	{
@@ -61,7 +61,7 @@
 		"sibilings": "",
 		"partners": ["Geralt of Rivia", "Istredd", "Crach an Craite"],
 		"children": ["Cirilla"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/yennefer.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/yennefer.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -90,7 +90,7 @@
 		"sibilings": "",
 		"partners": ["Anna Henrietta", "Vespula"],
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/jaskier.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/jaskier.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -119,7 +119,7 @@
 		"sibilings": "",
 		"partners": ["Geralt of Rivia"],
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/triss-merigold.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/triss-merigold.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -162,7 +162,7 @@
 		"sibilings": "",
 		"partners": ["Mistle"],
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/ciri.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/ciri.jpg?raw=true",
 		"picAuthor": "https://marioteodosioart.com/post/150372928508/my-ciri-fanart"
 	},
 	{
@@ -187,7 +187,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/vilgefortz.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/vilgefortz.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -212,7 +212,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": ["Caranthir Ar-Feiniel"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/avallach.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/avallach.jpg?raw=true",
 		"picAuthor": "https://marioteodosioart.com/post/150372928508/my-ciri-fanart"
 	},
 	{
@@ -237,7 +237,7 @@
 		"sibilings": "",
 		"partners": ["Myrgtabrakke", "Téa", "Véa"],
 		"children": ["Saesenthessis"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/borch-three-jackdows.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/borch-three-jackdows.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -267,7 +267,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/eskel.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/eskel.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com"
 	},
 	{
@@ -292,7 +292,7 @@
 		"sibilings": ["Aillil", "Dheran"],
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/cahir.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/cahir.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -316,7 +316,7 @@
 		"sibilings": "",
 		"partners": ["Roegner of Ebbing", "Eist Tuirseach"],
 		"children": ["Pavetta"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/calanthe.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/calanthe.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -341,7 +341,7 @@
 		"sibilings": "",
 		"partners": ["Yennefer of Vengenberg"],
 		"children": ["Hjalmar", "Cerys", "Ragnar", "Loki"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/crach-an-craite.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/crach-an-craite.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -366,7 +366,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/dudu.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/dudu.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -391,7 +391,7 @@
 		"sibilings": "",
 		"partners": ["Paveta"],
 		"children": ["Cirilla"],
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/dunny.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/dunny.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -416,7 +416,7 @@
 		"sibilings": "",
 		"partners": ["Geralt of Rivia"],
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/essi-daven.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/essi-daven.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -441,7 +441,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/emhyr.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/emhyr.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -466,7 +466,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/foltest.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/foltest.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -491,7 +491,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/fringilla-vigo.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/fringilla-vigo.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -516,7 +516,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/francesca-findabair.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/francesca-findabair.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -541,7 +541,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/istredd.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/istredd.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -566,7 +566,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/jarre.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/jarre.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/cloudsdevourer/gallery/all"
 	},
 	{
@@ -591,7 +591,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/keira-metz.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/keira-metz.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -616,7 +616,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/lambert.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/lambert.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -641,7 +641,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/lara-dorren.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/lara-dorren.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -666,7 +666,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/leo-bonhart.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/leo-bonhart.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -691,7 +691,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/milva.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/milva.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -716,7 +716,7 @@
 		"sibilings": "",
 		"partners": ["Ciri"],
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/mistle.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/mistle.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -741,7 +741,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/renfri.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/renfri.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -766,7 +766,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/vesemir.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/vesemir.jpg?raw=true",
 		"picAuthor": "https://en.cdprojektred.com/"
 	},
 	{
@@ -791,7 +791,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/asse.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/asse.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -816,7 +816,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/assire-var-anahid.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/assire-var-anahid.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -841,7 +841,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/eithne.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/eithne.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -866,7 +866,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/falka.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/falka.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -891,7 +891,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/giselher.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/giselher.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -916,7 +916,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/ida-emean-aep-sivney.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/ida-emean-aep-sivney.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -941,7 +941,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/iorweth.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/iorweth.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -966,7 +966,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/isengrim-faoiltiarna.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/isengrim-faoiltiarna.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -991,7 +991,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/kayleigh.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/kayleigh.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/justanor"
 	},
 	{
@@ -1016,7 +1016,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/margarita-laux-antille.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/margarita-laux-antille.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1041,7 +1041,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/meve.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/meve.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1066,7 +1066,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/mousesack.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/mousesack.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1091,7 +1091,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/nenneke.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/nenneke.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1116,7 +1116,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/nivellen.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/nivellen.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1141,7 +1141,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/orianna.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/orianna.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1166,7 +1166,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/pavetta.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/pavetta.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1191,7 +1191,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/philippa-eilhart.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/philippa-eilhart.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1216,7 +1216,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/radovid-v.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/radovid-v.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1241,7 +1241,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/reef.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/reef.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1266,7 +1266,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/regis.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/regis.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1291,7 +1291,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/rience.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/rience.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1316,7 +1316,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/sabrina-glevissig.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/sabrina-glevissig.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1341,7 +1341,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/shani.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/shani.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1366,7 +1366,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/sheala-de-tancarville.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/sheala-de-tancarville.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1391,7 +1391,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/sheenaz.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/sheenaz.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1416,7 +1416,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/sigismund-dijkstra.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/sigismund-dijkstra.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1441,7 +1441,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/spark.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/spark.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1466,7 +1466,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/stefan-skellen.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/stefan-skellen.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1491,7 +1491,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/striga2.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/striga2.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1516,7 +1516,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/tea-vea.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/tea-vea.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1541,7 +1541,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/tissaia-de-vries.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/tissaia-de-vries.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1566,7 +1566,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/toruviel.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/toruviel.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1591,7 +1591,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/visenna.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/visenna.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nastyaskaya"
 	},
 	{
@@ -1616,7 +1616,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/vysogota-of-corvo.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/vysogota-of-corvo.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1641,7 +1641,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/yarpen-zigrin.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/yarpen-zigrin.jpg?raw=true",
 		"picAuthor": ""
 	},
 	{
@@ -1666,7 +1666,7 @@
 		"sibilings": "",
 		"partners": "",
 		"children": "",
-		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/zoltan-chivay.jpg?raw=true",
+		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/zoltan-chivay.jpg?raw=true",
 		"picAuthor": ""
 	}
 ]
