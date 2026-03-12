@@ -32,7 +32,7 @@
 		"sibilings": "",
 		"partners": ["Yennefer of Vengenberg", "Triss Merigold"],
 		"children": ["Cirilla"],
-		"picture": "https://raw.githubusercontent.com/hmilena/TheWitcherAPI/refs/heads/master/src/imgs/characters/geralt-of-rivia.jpg",
+		"picture": "https://github.com/hmilena/TheWitcherAPI/blob/master/src/imgs/characters/geralt-of-rivia.jpg?raw=true",
 		"picAuthor": "https://www.deviantart.com/nikivaszi"
 	},
 	{
